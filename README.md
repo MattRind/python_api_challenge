@@ -1,2 +1,3 @@
 # python_api_challenge
-I used as much code in the provided templates as I thought was correct for solving the problem. All code was written by me. Some modules given in the starter code didn't seem to work, so I modified these (for example, )
+there are two folders in this repo, Code and Output. Code contains the jupyter nootbooks for the assignment. Output contains one csv file and four png files. 
+I used as much code in the provided templates as I thought was correct for solving the problem. All code was written by me. Some modules given in the starter code didn't seem to work, so I modified these (for example, used (imported) 'datetime' instead of 'time'.  This was my first time using error handling (try/except) and defining a function. 
