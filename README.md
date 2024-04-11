@@ -1,1 +1,2 @@
 # python_api_challenge
+I used as much code in the provided templates as I thought was correct for solving the problem. All code was written by me. Some modules given in the starter code didn't seem to work, so I modified these (for example, )
